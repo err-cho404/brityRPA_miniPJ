@@ -9,3 +9,6 @@
 <li align=left>Python</li>
 <li align=left>brityRPA</li>
 <br>
+<h3 align=left>작업인원 및 기간</h3>
+<li align=left>팀원 : 4명</li>
+<li align=left>기간 : 24.08.06~(1주일간)</li>
