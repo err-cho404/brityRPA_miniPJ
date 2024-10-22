@@ -7,7 +7,7 @@
 <br>
 <h3 align=left>프로젝트 개발환경</h3>
 <li align=left>Python</li>
-<li align=left>brityRPA</li>
+<li align=left>Brity RPA</li>
 <br>
 <h3 align=left>작업인원 및 기간</h3>
 <li align=left>팀원 : 4명</li>
