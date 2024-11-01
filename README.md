@@ -12,3 +12,6 @@
 <h3 align=left>작업인원 및 기간</h3>
 <li align=left>팀원 : 4명</li>
 <li align=left>기간 : 24.08.06~24.08.14</li>
+<br>
+<h3 align=left>BrityRPA 작동 영상자료 링크</h3>
+<a align=left>http://naver.me/GubhbyX2</a>
